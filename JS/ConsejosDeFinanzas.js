@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    setInterval(nextItem, 3000); // Cambiar cada 3 segundos
+    setInterval(nextItem, 8000); // Cambiar cada 3 segundos
 
     showItem(index); // Mostrar el primer elemento al cargar
 });
